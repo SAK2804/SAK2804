@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![UM](https://cdn.discordapp.com/banners/273963892256800768/e756f800fa4e299212b110cec7ca0532.png)
+  ![UM](https://cdn.discordapp.com/banners/273963892256800768/e756f800fa4e299212b110cec7ca0532.png?size=1024)
 
 
 <p align="center">
