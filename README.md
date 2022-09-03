@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![SARNAX_copy](https://umhackathon.fsktm.um.edu.my/images/fcsit.png)
+  ![UM](https://cdn.discordapp.com/banners/273963892256800768/e756f800fa4e299212b110cec7ca0532.png)
 
 
 <p align="center">
