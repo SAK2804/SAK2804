@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![UM](https://cdn.discordapp.com/banners/273963892256800768/e756f800fa4e299212b110cec7ca0532.png?size=1024)
+  ![UM](https://dinowex.fsktm.um.edu.my/img/FSKTMLogo.png)
 
 
 <p align="center">
