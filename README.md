@@ -38,6 +38,7 @@
   <img alt="Sql" src="https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mysql&logoColor=00648B"></a> 
   <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a> 
   <img alt="python" src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=00648B"></a>
+  <img alt="React" src="https://img.shields.io/badge/-React.js-090909?style=for-the-badge&logo=React&logoColor=4287f5"></a>
 </p>
 
 
