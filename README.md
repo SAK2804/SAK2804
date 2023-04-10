@@ -3,7 +3,7 @@
   
 <p align="center">
   
-  ![UM](https://dinowex.fsktm.um.edu.my/img/FSKTMLogo.png)
+  [![UM](https://dinowex.fsktm.um.edu.my/img/FSKTMLogo.png)]("https://fsktm.um.edu.my/index")
 
 
 <p align="center">
