@@ -25,6 +25,8 @@
   
 </p>
 
+<h2 align="center">My Resume 👉 <a href="https://samerabukhader.github.io/portfolio/">Here</a></h2>
+
 
 <h2 align="center">Programming languages that i mainly use.</h2>
 <p align="center">
